@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #22c55e; font-weight: bold;">Easy</span>
 - **Languages:** `Java`
-- **Submission Date:** November 4, 2025
+- **Submission Date:** August 23, 2026
 - **Tags:** `Array`, `Hash Table`
 
 ## Description
@@ -55,7 +55,7 @@ Output: [0,1]
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+     HashMap<Integer, Integer> map = new HashMap<>();
         
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
@@ -65,7 +65,7 @@ class Solution {
             map.put(nums[i], i);
         }
         
-        return new int[]{}; // no solution
+        return new int[]{}; // no solution   
     }
 }
 ```
