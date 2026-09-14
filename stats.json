@@ -5,10 +5,10 @@
       "README.md": "ee28757ea8228d9d5b0d60c7036c61522b51a002"
     },
     "README.md": {
-      "": "34dfba3a121d3357e564eae2c92705954619427a"
+      "": "cf446970702cf5d488105cf66600c964a84a3473"
     },
     "stats.json": {
-      "": "3684e9ab063cc0517890eaf2a5dca2692bb18908"
+      "": "1762a6f7c387e9e78bdd4bffd043f7ddef9a4079"
     },
     "valid-parentheses": {
       "valid-parentheses.java": "70478e27660c2d033c4cd553ea334c6fe1b7cf49",
@@ -21,8 +21,12 @@
     "maximum-depth-of-binary-tree": {
       "maximum-depth-of-binary-tree.java": "6d92a44dea97a6b2eb264dae3afaad345fd12c70",
       "README.md": "f195f915bfe48c4cc9cb8a894440b8ebafa940f8"
+    },
+    "binary-tree-level-order-traversal": {
+      "binary-tree-level-order-traversal.java": "40c1f181719be5c713774229a215fb16f466b1ea",
+      "README.md": "3b3de12188a3d5ebc33e5080e652427209c4ef5c"
     }
   },
-  "solved": 4,
+  "solved": 5,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }

@@ -12,6 +12,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode #104 | [Java](./leetcode/Easy/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java) |
+| 2 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode #102 | [Java](./leetcode/Medium/binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 
 ## Bracket Sequences
 
@@ -24,6 +25,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode #104 | [Java](./leetcode/Easy/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java) |
+| 2 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode #102 | [Java](./leetcode/Medium/binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 
 ## Depth-First Search
 
@@ -60,6 +62,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode #104 | [Java](./leetcode/Easy/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java) |
+| 2 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode #102 | [Java](./leetcode/Medium/binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 
 ## Two Pointers
 
