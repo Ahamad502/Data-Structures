@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
 - **Languages:** `Java`
-- **Submission Date:** September 14, 2026
+- **Submission Date:** September 15, 2026
 - **Tags:** `Tree`, `Breadth-First Search`, `Binary Tree`
 
 ## Description
